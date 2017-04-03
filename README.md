@@ -7,6 +7,12 @@ The Portable Document Format (commonly referred to as PDF) is a file format used
 ### What is the Blockchain
 A blockchain is a distributed, append-only database hardened against tampering and revision that provides a single shared source of cryptographically verifiable truth. The use cases outlined here are provided in order to make progress toward possible future standardization and interoperability of blockchains and ledgers. The use cases in this document focus on concrete scenarios that the technology defined by the group should address.
 
+### What is Blockcast
+A multi-transaction protocol for storing data in the Bitcoin blockchain.
+
+### Blockcast Litecoin
+A multi-transaction protocol for storing data in the Litecoin blockchain.
+
 
 # License
 Copyright (c) 2017 Sean Westfall 
